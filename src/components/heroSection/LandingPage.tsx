@@ -32,7 +32,7 @@ const LandingPage = () => {
                 </div>
                 <div className="flex-[1]">
                     <Image
-                        src="/images/Landing.png"
+                        src="/images/landing.png"
                         alt="Landing page product showcase"
                         className="object-cover max-md:w-[220px] max-md:h-[220px] "
                         width={350}

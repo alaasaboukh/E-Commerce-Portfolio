@@ -172,3 +172,12 @@ body {
     right: 0;
     transform: rotate(0deg);
 }
+
+
+@layer utilities {
+  @media (prefers-color-scheme: dark) {
+    html {
+      color-scheme: light; 
+    }
+  }
+}
