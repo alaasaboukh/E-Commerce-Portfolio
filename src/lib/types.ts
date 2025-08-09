@@ -1,11 +1,9 @@
 import {
     Home,
     MessageSquare,
-    UserPlus,
     BookOpen,
     ShoppingCart,
     Heart,
-    Store,
     ShoppingBag,
 } from "lucide-react";
 
